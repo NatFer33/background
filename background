@@ -1,5 +1,6 @@
 <style>
   div {
+    background -image: url (penguins.jpg)
     border-radius:50px;
     background-color: cornflowerblue; 
     height: 150px;
