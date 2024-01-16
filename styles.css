@@ -1,4 +1,4 @@
-  .p {
+  #p {
     background-image: url("penguins.jpg");
     border-radius:50px;
     background-color: cream; 
@@ -6,7 +6,7 @@
   }
 
 
-  .d {
+  #d {
     background-image: url("dinosaur.jpg");
     background-color: white; 
     height: 150px;
