@@ -1,5 +1,5 @@
   div p {
-    background -image: url(penguins.jpg)
+    background-image: url(penguins.jpg)
     border-radius:50px;
     background-color: cream; 
     height: 150px;
@@ -7,7 +7,7 @@
 
 
   div d {
-    background -image: url(dinosaur.jpg)
+    background-image: url(dinosaur.jpg)
     background-color: white; 
     height: 150px;
   }
