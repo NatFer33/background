@@ -8,6 +8,7 @@
 
   .d {
     background-image: url("dinosaur.jpg");
+    border-radius:70px;
     background-color: white; 
-    height: 150px;
+    height: 100px;
   }
